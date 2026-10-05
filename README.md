@@ -4,7 +4,7 @@ Live, always-visible cost and token tracking for **[OpenCode](https://opencode.a
 
 This came out of a simple problem: AI coding agents burn tokens and money per turn, per session, per day — and none of that is visible while you're working. You only find out later, from a dashboard or an invoice, by which point the expensive session is long over and you've learned nothing you can act on. This repo is the fix: a live panel that sits next to your terminal and updates every few seconds.
 
-The same panel for Claude Code lives in **[claudecode-cost-usage-panel](https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel)** — the two were one repo until they were split apart, which is why the design notes here and there cross-reference each other.
+The same panel for Claude Code lives in **[claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar)** — the two were one repo until they were split apart, which is why the design notes here and there cross-reference each other.
 
 Full write-up and motivation: **[AI coding costs are guesswork without this: instrumenting OpenCode and Claude Code](https://andrewbaker.ninja/2026/08/22/ai-coding-costs-are-guesswork-without-this-instrumenting-opencode-and-claude-code/)**
 
